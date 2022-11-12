@@ -5,7 +5,8 @@
 - Hi, I’m Moisés Neto
 - I'm currently focusing on Front end, using React, React Native and Next.
 - Graduated in Computer Science.
-- Systems Developer at Click Ip.
+- Front-end Developer at Click Ip.
 - 📫 How to reach me **moisesnetored@gmail.com**
 
 From the beginning, what fascinated me most about programming was the infinite possibilities of creating something, starting from small experiments with game scripts, calculation programs in C and Java, games with GameMaker Studio until I got to where I am today, creating applications web and mobile seeking to make the most of React and its integrations with modern market technologies, and sometimes, when necessary, step on the Back-end.
+Currently I'm focusing on specializing in the use of ReactJS and JavaScript, mastering the language and the library, implementing tests with Jest and Testing Library and documenting with Storybook.
