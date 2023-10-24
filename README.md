@@ -1,5 +1,5 @@
 # [Moisés Neto](https://www.linkedin.com/in/moisesnetouou/)
-Frontend Developer
+> **Frontend Developer**
 
 With over two years of experience in the job market, I have dedicated myself to developing solutions primarily using JavaScript. My expertise revolves around creating systems that rely on React.js as the main library to build interfaces and functionalities.
 
