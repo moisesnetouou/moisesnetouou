@@ -1,13 +1,18 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="28px">, I'm [Moisés Neto!](https://www.linkedin.com/in/moisesnetouou/)
+# [Moisés Neto](https://www.linkedin.com/in/moisesnetouou/)
+Frontend Developer
 
-"Nothing of me is original. I am the combined effort of everyone I've ever known." ― Chuck Palahniuk, Invisible Monsters
+With over two years of experience in the job market, I have dedicated myself to developing solutions primarily using JavaScript. My expertise revolves around creating systems that rely on React.js as the main library to build interfaces and functionalities.
 
-- Hi, I’m Moisés Neto
-- I'm currently focusing on Front end, using React, React Native and Next.
-- Graduated in Computer Science.
-- Front-end Developer at Click Ip.
-- 📫 How to reach me **moisesnetored@gmail.com**
+My commitment is to consistently deliver projects with high quality, comprehensive documentation, and rigorous testing. I continually seek to apply my knowledge and experience to select the best tools and approaches for each project.
 
-From the beginning, what fascinated me most about programming was the infinite possibilities of creating something, starting from small experiments with game scripts, calculation programs in C and Java, games with GameMaker Studio until I got to where I am today, creating applications web and mobile seeking to make the most of React and its integrations with modern market technologies, and sometimes, when necessary, step on the Back-end.
+Throughout this period, I have gained extensive experience with various technologies, including:
 
-Currently I'm focusing on specializing in the use of ReactJS and JavaScript, mastering the language and the library, implementing tests with Jest and Testing Library and documenting with Storybook.
+- **Language:** JavaScript serves as the central foundation for my solutions. I have invested time in thoroughly understanding its inner workings, and I integrate TypeScript whenever possible to enhance code quality.
+
+- **Libraries and Frameworks:** My work is based on React.js and Next.js, which form the backbone of my projects.
+
+- **Styling:** The wide array of available styling tools has allowed me to explore several of them. Currently, I select the one that best suits the project's context, leading me to work with Styled Components, Chakra UI, Stitches, and, more recently, Tailwind CSS, which has been natively integrated into Next.js.
+
+- **Documentation:** I use Storybook to create documentation that demonstrates how components should be used and their various variations.
+
+- **Testing:** I began with Jest and currently employ Vitest, Cypress, and Testing Library to ensure the reliability and performance of my applications.
